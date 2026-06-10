@@ -1,0 +1,6 @@
+{
+  "name": "Calm Fit",
+  "description": "Premium health, fitness, and wellness coaching business website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
